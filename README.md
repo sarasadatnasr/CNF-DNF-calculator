@@ -10,6 +10,10 @@ According to the button you choose (CNF or DNF), "to_symbol_form" compiles your 
 Finally you have the CNF/DNF form. More data is in the code.
 
 EXAMPLE
-<img src="https://github.com/sarasadatnasr/CNF-DNF-calculator/blob/6c99808f047bda6ffbfbb37ec881bcf147a057f8/image/Screenshot%20from%202023-01-05%2014-19-22.png" alt="Alt text" title="Optional title">
 
 
+<img src="https://github.com/sarasadatnasr/CNF-DNF-calculator/blob/f005d75a2192f16787865d5e35c3d73279b64635/image/Screenshot%20from%202023-01-05%2014-19-22.png" alt="Alt text" title="Optional title">
+
+
+
+<img src="https://github.com/sarasadatnasr/CNF-DNF-calculator/blob/f005d75a2192f16787865d5e35c3d73279b64635/image/Screenshot%20from%202023-01-05%2014-19-35.png" alt="Alt text" title="Optional title">
